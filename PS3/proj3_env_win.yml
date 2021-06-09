@@ -1,0 +1,19 @@
+name: proj3
+channels:
+- menpo
+- defaults
+dependencies:
+- matplotlib
+- python=3.5
+- scikit-learn
+- scipy
+- opencv3
+- vlfeat
+- pip
+- pip:
+  - visdom
+  - pyyaml
+  - parso==0.7.0
+  - tornado==6.1
+  - jupyter
+- yaml

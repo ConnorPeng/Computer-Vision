@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pillow
+scikit-image
+opencv-python==4.2.0.34 # Later versions are okay, but may break on some configurations.

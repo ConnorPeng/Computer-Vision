@@ -1,0 +1,19 @@
+name: proj4
+channels:
+- menpo
+- defaults
+- conda-forge
+dependencies:
+- jupyter
+- matplotlib
+- python=3.6
+- scikit-learn
+- scipy=1.5.2
+- opencv
+- scikit-image
+- pillow
+- vlfeat
+- pip
+- pip:
+  - pyyaml
+- yaml

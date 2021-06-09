@@ -1,0 +1,8 @@
+required_directories:
+  - proj6_code
+  - model_checkpoints/simple_net
+required_files:
+  - model_checkpoints/simple_net/checkpoint.pt
+optional_directories:
+optional_files:
+  - README.txt

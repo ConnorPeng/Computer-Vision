@@ -1,0 +1,21 @@
+Metadata-Version: 1.2
+Name: 4476-Spring21-Proj3
+Version: 1.0.0
+Summary: UNKNOWN
+Home-page: https://sites.google.com/view/cs4476-sp2021/problem-sets/ps3
+Author: Georgia Institute of Technology
+Author-email: virajp@gatech.edu
+License: MIT
+Description: # CS 4476 project 3: Local Feature Matching
+        
+        Look at proj3.pdf for setup, running, and submission instructions.
+Keywords: computer-vision
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >= 3.5

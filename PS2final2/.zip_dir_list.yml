@@ -1,0 +1,12 @@
+required_files:
+  - proj2_code/fundamental_matrix.py
+  - proj2_code/least_squares_fundamental_matrix.py
+  - proj2_code/projection_matrix.py
+  - proj2_code/ransac.py
+  - proj2_code/recover_rot_translation.py
+  - proj2_code/proj2.ipynb
+  - proj2_code/get_points.py
+  - proj2_code/two_view_data.py
+  - proj2_code/utils.py
+optional_files:
+  - README.txt
